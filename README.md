@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Rahul<br><br>Computer Science student at UNF<br>Design Student at Florida State College<br>I create Web and iOS apps to stay consistent<br>I make prediction models based on sport league (NBA, NFL)
+## Hi, I'm Rahul<br><br>Computer Science student at UNF<br>Design Student at Florida State College<br>I create Web and iOS apps to stay consistent<br>I make prediction models based on my favorite sports leagues (NBA, NFL)
 
 
 ## 🌐 Socials:
